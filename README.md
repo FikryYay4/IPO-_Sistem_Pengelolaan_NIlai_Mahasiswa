@@ -4,4 +4,4 @@
 
 Berikut contoh tampilan output program:
 
-![Output Program](screenshots/output.png)
+![Output Program](output.png)
